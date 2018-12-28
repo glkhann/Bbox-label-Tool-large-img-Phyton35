@@ -3,3 +3,6 @@ Modification of Bbox label tool for Python35
 
 Original code Source: https://github.com/BASFProject-2018spring/BBox-Label-Tool-large-img
 
+Files
+1. main.py (for BMP image)
+2. main
