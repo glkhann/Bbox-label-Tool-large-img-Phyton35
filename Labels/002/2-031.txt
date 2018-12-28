@@ -1,0 +1,7 @@
+6
+1211 1350 1376 1424 Interested
+613 407 923 680 Non-interested
+1675 325 2045 632 Non-interested
+2049 886 2445 1290 Non-interested
+1058 762 1436 1039 Non-interested
+2143 1525 2479 1739 Non-interested

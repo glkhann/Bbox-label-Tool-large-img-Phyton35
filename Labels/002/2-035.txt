@@ -1,0 +1,8 @@
+7
+1443 1013 1552 1159 Interested
+1436 901 1555 968 Interested
+1683 1035 1772 1338 Interested
+796 317 1035 516 Non-interested
+284 1155 549 1424 Non-interested
+1073 1518 1391 1712 Non-interested
+2352 467 2677 748 Non-interested

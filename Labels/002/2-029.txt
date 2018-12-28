@@ -1,0 +1,7 @@
+6
+1361 1159 1645 1451 Interested
+463 187 777 508 Non-interested
+1208 187 1525 482 Non-interested
+1989 179 2333 557 Non-interested
+1989 901 2273 1237 Non-interested
+340 976 691 1342 Non-interested

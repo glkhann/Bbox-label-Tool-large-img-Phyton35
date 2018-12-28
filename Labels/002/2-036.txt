@@ -1,0 +1,8 @@
+7
+280 1196 374 1282 Interested
+931 1458 1058 1544 Interested
+1570 620 1843 792 Non-interested
+415 647 691 811 Non-interested
+2049 239 2367 523 Non-interested
+1765 1589 2109 1825 Non-interested
+2255 882 2632 1181 Non-interested

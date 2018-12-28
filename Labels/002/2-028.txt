@@ -1,0 +1,8 @@
+7
+1735 1342 1963 1451 Interested
+224 755 639 1166 Non-interested
+1615 426 1944 721 Non-interested
+2434 239 2704 587 Non-interested
+2389 991 2662 1282 Non-interested
+961 1151 1189 1432 Non-interested
+968 781 1159 923 Interested

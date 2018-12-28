@@ -1,0 +1,8 @@
+7
+1252 1574 1462 1619 Interested
+1316 1765 1409 1825 Interested
+1002 617 1140 740 Non-interested
+2374 587 2610 819 Non-interested
+1514 568 1757 721 Non-interested
+474 605 669 744 Non-interested
+2258 1342 2498 1548 Non-interested

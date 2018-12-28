@@ -1,0 +1,7 @@
+6
+841 1148 935 1211 Interested
+340 164 340 164 Non-interested
+340 164 714 437 Non-interested
+1409 168 1735 561 Non-interested
+1727 875 2079 1200 Non-interested
+2079 93 2479 381 Non-interested

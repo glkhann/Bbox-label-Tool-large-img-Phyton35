@@ -1,0 +1,7 @@
+6
+1376 1234 1578 1361 Interested
+920 609 1181 886 Non-interested
+1645 243 1982 534 Non-interested
+557 258 792 523 Non-interested
+224 680 703 871 Non-interested
+2199 1006 2509 1267 Non-interested

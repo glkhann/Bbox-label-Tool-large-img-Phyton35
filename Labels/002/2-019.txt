@@ -1,0 +1,7 @@
+6
+2412 605 2513 796 Interested
+568 437 804 684 Non-interested
+1656 213 2004 516 Non-interested
+1125 287 1409 527 Non-interested
+2569 201 2797 482 Non-interested
+2105 1080 2363 1383 Non-interested

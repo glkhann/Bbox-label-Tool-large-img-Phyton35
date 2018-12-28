@@ -1,0 +1,7 @@
+6
+2083 1054 2333 1133 Interested
+411 531 602 684 Non-interested
+374 1148 587 1305 Non-interested
+366 1783 579 1948 Non-interested
+1136 1316 1436 1436 Non-interested
+1496 1077 1660 1245 Non-interested

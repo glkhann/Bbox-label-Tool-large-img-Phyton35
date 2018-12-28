@@ -1,0 +1,7 @@
+6
+1391 661 1481 748 Interested
+699 396 1039 620 Non-interested
+1533 314 1840 549 Non-interested
+1922 583 2094 755 Non-interested
+2191 1211 2442 1413 Non-interested
+164 201 418 482 Non-interested
