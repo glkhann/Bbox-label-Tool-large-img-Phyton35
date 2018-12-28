@@ -1,8 +1,9 @@
 # Bbox-label-Tool-large-img-Phyton35
 Modification of Bbox label tool for Python35
+Window 10
 
 Original code Source: https://github.com/BASFProject-2018spring/BBox-Label-Tool-large-img
-
+_______________________________________________________________________________________________________________________________________
 Files
 1. main.py (for BMP image)
 2. main_jpg.py (for jpg image)
@@ -16,6 +17,7 @@ atention: <x_center> <y_center> - are center of rectangle (are not top-left corn
 
 4. process.py (split image list into train and test list)
 
+_______________________________________________________________________________________________________________________________________
 Usage
 
 1. Split training images into N folders so you don't need to label all of them once.
@@ -51,4 +53,6 @@ Folder 'Images' and 'Labels'.
 
 8. Execute convert.py to arrange labeled data into YOLOV2 format. 
 
-9. 
+9. Place all lablled images and label text file into a forlder name as 'Labels_data'. Execute process.py in the 'Labels_data' folder \ to generate train.txt and test.txt
+
+python .\process.py
